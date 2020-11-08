@@ -1,0 +1,1 @@
+(()=>{var e={672:e=>{e.exports=function(){var e=document.createElement("div");return e.textContent="welcome to use webpack!",e}}},t={};function r(o){if(t[o])return t[o].exports;var n=t[o]={exports:{}};return e[o](n,n.exports,r),n.exports}(()=>{const e=r(672);document.querySelector("#root").appendChild(e())})()})();
